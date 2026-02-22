@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+ccxt
+pandas
+numpy
+ta
+requests
+pydantic
+sqlalchemy
